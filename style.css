@@ -1,0 +1,105 @@
+ body {
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(211, 211, 207);
+ }
+.wd {
+    color: rgb(243, 235, 20);
+}
+#WD {
+    text-decoration: none;
+    background-color: rgb(147, 216, 43);
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+.fs-1 {
+    font-size: 25px;
+    margin: auto;
+    padding-left: 70px;
+}
+img {
+    margin: 50px;
+    padding-left: 150px;
+}
+.fd {
+    background-color: rgb(253, 242, 231);
+    display: flex;
+}
+.fs-2 {
+    font-size: 30px;
+    margin-left: 20px;
+}
+.ws img {
+    height: 180px;
+}
+.ws {
+    background-color: rgb(244, 243, 242);
+    height: 580px;
+    width: 400px;
+    margin: 15px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: -1px 0px 15px gray;
+}
+.wc img {
+    height: 180px;
+}
+.wc {
+    background-color: rgb(244, 243, 242);
+    height: 580px;
+    width: 400px;
+    margin: 15px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: -1px 0px 15px gray;
+}
+.wb img {
+    height: 180px; 
+}
+.wb {
+    background-color: rgb(244, 243, 242);
+    height: 580px;
+    width: 400px;
+    margin: 15px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: -1px 0px 15px gray;
+}
+.sd {
+    display: flex;
+}
+.fs-3 {
+    font-size: 30px;
+    margin-left: 20px;
+}
+.fs-4 img {
+    height: 100px;
+    margin-left: -90px;
+}
+.fs-4 {
+    display: flex;
+    background-color: white;
+    margin: 30px;
+    border-radius: 20px;
+    box-shadow: 10px gray;
+    
+}
+.td-2 {
+    padding: 20px 0px ;
+}
+.td-1 {
+    width: 900px;
+    margin: 20px;
+}
+.fs-5 img {
+height: 400px;
+width: 400px;
+margin: 20px;
+padding: 30px;
+}
+.td {
+    display: flex;
+}
+footer p {
+    text-align: center;
+}
